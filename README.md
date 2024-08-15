@@ -1,6 +1,6 @@
 ## Mantine Dashboard
 
-> Free React Admin Dashboard made with Mantine components and Next.js.
+> Free React Dashboard made with Mantine components and Next.js.
 
 ## Quick start
 
